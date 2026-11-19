@@ -1,7 +1,7 @@
 {
-"VoilaConfiguration": {
-"theme": "light",
-"strip_sources": true,
-"show_tracebacks": false
-}
+  "VoilaConfiguration": {
+    "theme": "light",
+    "strip_sources": true,
+    "show_tracebacks": false
+  }
 }
